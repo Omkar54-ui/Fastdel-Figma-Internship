@@ -1,13 +1,3 @@
-
-# Fastdel - Figma Internship Submission (CODTECH)
-
-## Intern Name: [Your Name]
-## Internship Domain: UI/UX Design using Figma
-## Organization: CODTECH
-## Project: Fastdel - Food Delivery Brand
-
----
-
 ## ✅ Task 1: Logo Design Mockup
 
 **Description**:  
