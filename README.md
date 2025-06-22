@@ -31,3 +31,8 @@ For the e-commerce product page, I studied real product page layouts and designe
 The smart home voice UI was designed by studying UX principles for smart devices and integrating voice command flow using clean dashboard elements and icons.
 
 I carefully followed all internship instructions, stayed active with group updates, and made sure to organize and submit all deliverables professionally.
+
+#OUTPUT - 
+
+![Image](https://github.com/user-attachments/assets/e10f6815-5cc2-4a8d-b7d1-4ccf435726e6)
+![Image](https://github.com/user-attachments/assets/e6fbfe72-6643-45bf-baba-495bb607359f)
